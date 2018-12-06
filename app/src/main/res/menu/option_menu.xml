@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Take photo" android:id="@+id/take_photo"/>
+    <!--<item android:title="Upload from gallery" android:id="@+id/upload_photo"/>-->
+    <item android:title="Cancel" android:id="@+id/cancel"/>
+
+</menu>
